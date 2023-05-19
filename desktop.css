@@ -1,0 +1,34 @@
+.another ul li :hover{
+    background-color: #2970A9;
+    transform: scale(1.1);
+    transition: 0.5s;
+    }
+    .another-two h1{
+        font-size: 50px;
+    }
+    .another-two .btn{
+        padding: 10px;
+    }
+.row{
+    padding: 0%;
+}
+.card{
+    margin-top: 20px;
+}
+.text-lg-left {
+    text-align: left !important;
+  }
+  .text-lg-right {
+    text-align: right !important;
+  }
+
+  .two{
+    margin-left: -10px;
+  }
+  .value{
+    max-width: 100%;
+  }
+  .value-three{
+    width: 20%;
+    height: 190px;
+}
